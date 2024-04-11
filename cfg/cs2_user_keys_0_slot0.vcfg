@@ -1,0 +1,8 @@
+"config"
+{
+	"bindings"
+	{
+		"CAPSLOCK"		"+voicerecord"
+		"MOUSE4"		"<unbound>"
+	}
+}
